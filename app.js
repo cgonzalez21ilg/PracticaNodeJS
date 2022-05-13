@@ -20,16 +20,16 @@ app.get('/product', (req,res) => {
     const products = [
     {
       id: 1,
-      name: "hammer",
+      name: "Teclado",
     },
     {
       id: 2,
-      name: "screwdriver",
+      name: "Monitor",
     },
     ,
     {
       id: 3,
-      name: "wrench",
+      name: "Router",
     },
    ];
   
